@@ -1,0 +1,6 @@
+.cph
+*
+!*/
+!*.cpp
+!README.md
+!.gitignore
